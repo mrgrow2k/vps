@@ -51,7 +51,7 @@ Comparing with building from source manually, you will benefit from using this s
 SSH to your VPS and clone the Github repository:
 
 ```bash
-git clone https://github.com/masternodes/vps.git && cd vps
+git clone https://github.com/mrgrow2k/vps.git && cd vps
 ```
 
 Install & configure your desired master node with options:
@@ -139,7 +139,7 @@ If you want to check the status of your masternode, the best way is currently ru
 
 # Help, Issues and Questions
 
-I activated the "[issues](https://github.com/masternodes/vps/issues)" option on github to give you a way to document defects and feature wishes. Feel free top [open issues](https://github.com/masternodes/vps/issues) for problems / features you are missing here: [https://github.com/masternodes/vps/issues](https://github.com/masternodes/vps/issues).
+I activated the "[issues](https://github.com/mrgrow2k/vps/issues)" option on github to give you a way to document defects and feature wishes. Feel free top [open issues](https://github.com/mrgrow2k/vps/issues) for problems / features you are missing here: [https://github.com/mrgrow2k/vps/issues](https://github.com/mrgrow2k/vps/issues).
 
 I might not be able to reply immediately, but i do usually within a couple of days at worst. I will also happily take any pull requests that make masternode installations easier for everyone ;-)
 
